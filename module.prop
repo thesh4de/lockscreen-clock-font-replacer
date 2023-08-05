@@ -1,0 +1,6 @@
+id=clock-font
+name=Lockscreen Clock Font Replacer
+version=v1.0
+versionCode=1
+author=sh4d0w
+description=Magisk Module to replace lockscreen clock font.
